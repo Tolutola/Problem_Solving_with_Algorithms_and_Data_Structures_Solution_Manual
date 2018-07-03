@@ -1,1 +1,3 @@
-# Problem_Solving_with_Algorithms_and_Data_Structures_Solution_Manual
+# Solution Manual for "Problem Solving with Algorithms and Data Structures"
+
+This repo provides solutions to selected programming exercises
